@@ -5,21 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harrionparrix" alt="harrionparrix" /></a> </p>
 
-- 🔭 I’m currently working on **Python and web dev**
+- 🔭 I’m currently working on **Machine and Deep Learning**
 
-- 🌱 I’m currently learning **React, Angular and MongoDB**
-
-- 👯 I’m looking to collaborate on **Python, JS, CSS, HTML**
+- 👯 I’m looking to collaborate on **Python, DL, ML, Web Dev**
 
 - 🤝 I’m looking for help with **any new projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harrionparrix?tab=repositories](https://github.com/harrionparrix?tab=repositories)
 
-- 💬 Ask me about **JS, C**
-
 - 📫 How to reach me **patrikarvarun@gmail.com**
-
-- ⚡ Fun fact **I am kinda fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
